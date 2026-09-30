@@ -10,8 +10,8 @@ I use AI coding tools (Claude Code) to go from a business question to a working 
 
 | Project | What it is |
 |---|---|
-| [premium-card-benefits-pnl](https://github.com/takashikawazo/premium-card-benefits-pnl) | Interactive P&L model for a premium corporate card: benefits cost, rewards, network funding, sensitivity by segment |
-| [ai-b2b-pipeline-agent](https://github.com/takashikawazo/ai-b2b-pipeline-agent) | Scheduled AI agent that audits a B2B enterprise sales pipeline every week: 4 h → 30 min |
-| [recipe-based-unit-costing](https://github.com/takashikawazo/recipe-based-unit-costing) | Rebuilt unit costs from recipes and found 52 errors in the pricing matrix of my startup |
+| [premium-card-benefits-pnl](https://github.com/tkawazo/premium-card-benefits-pnl) | Interactive P&L model for a premium corporate card: benefits cost, rewards, network funding, sensitivity by segment |
+| [ai-b2b-pipeline-agent](https://github.com/tkawazo/ai-b2b-pipeline-agent) | Scheduled AI agent that audits a B2B enterprise sales pipeline every week: 4 h → 30 min |
+| [recipe-based-unit-costing](https://github.com/tkawazo/recipe-based-unit-costing) | Rebuilt unit costs from recipes and found 52 errors in the pricing matrix of my startup |
 
 📫 [linkedin.com/in/takashikawazo](https://www.linkedin.com/in/takashikawazo/)
